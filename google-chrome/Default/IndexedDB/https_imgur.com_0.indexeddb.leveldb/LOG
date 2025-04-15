@@ -1,0 +1,14 @@
+2025/04/11-18:58:18.106 315 Reusing MANIFEST /home/avemaria/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-18:58:18.106 315 Recovering log #17
+2025/04/11-18:58:18.106 315 Reusing old log /home/avemaria/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000017.log 
+2025/04/11-18:58:18.106 315 Delete type=2 #16
+2025/04/11-18:58:18.380 30a Level-0 table #22: started
+2025/04/11-18:58:18.410 30a Level-0 table #22: 2046 bytes OK
+2025/04/11-18:58:18.449 30a Delete type=0 #17
+2025/04/11-18:58:18.450 308 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 390 : 1
+2025/04/11-18:58:18.450 308 Compacting 1@0 + 1@1 files
+2025/04/11-18:58:18.492 308 Generated table #23@0: 119 keys, 2486 bytes
+2025/04/11-18:58:18.493 308 Compacted 1@0 + 1@1 files => 2486 bytes
+2025/04/11-18:58:18.530 308 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-18:58:18.530 308 Delete type=2 #22
+2025/04/11-18:58:18.531 308 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 390 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

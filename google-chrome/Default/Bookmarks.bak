@@ -1,0 +1,346 @@
+{
+   "checksum": "dfbd0ff27506841d183e8ab3e18d9744",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13254990861613626",
+            "date_last_used": "13388854016603496",
+            "guid": "f015d37c-1ba5-458f-8f99-78e6b29c2060",
+            "id": "5",
+            "name": "Mail.Ru",
+            "type": "url",
+            "url": "https://mail.ru/cnt/7993"
+         }, {
+            "date_added": "13351856103977177",
+            "date_last_used": "13388850686277566",
+            "guid": "6def74cc-7355-49ed-a861-1cb67571020a",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13357655746359166",
+            "date_last_used": "0",
+            "guid": "fac0ea6a-5f0e-4389-b345-37cd45faf7bd",
+            "id": "7",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=641&clid=2416149-2&from=dist_bookmark"
+         }, {
+            "date_added": "13357655746359210",
+            "date_last_used": "0",
+            "guid": "86b8c4b8-5c98-43c9-ac08-8d0422b694a6",
+            "id": "8",
+            "name": "Яндекс Маркет",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=641&clid=2416152-2"
+         }, {
+            "date_added": "13378829006254575",
+            "date_last_used": "13388840858270959",
+            "guid": "f3b6e622-04b1-4bbb-af21-b64d4ac7dc07",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resize Image Online - Free Image Resizer",
+            "type": "url",
+            "url": "https://zeeconvert.com/image-resizer/"
+         }, {
+            "date_added": "13381058827743283",
+            "date_last_used": "13388858918082730",
+            "guid": "c19a5ae1-215c-4857-a69c-851643cf2405",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Xiaomi Redmi Note 11 (Global) - Обсуждение - 4PDA",
+            "type": "url",
+            "url": "https://4pda.to/forum/index.php?showtopic=1040905"
+         }, {
+            "date_added": "13385399306300702",
+            "date_last_used": "13388587211183483",
+            "guid": "9be00dc0-851e-4280-8b42-bf11f615e13a",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hear your likes and playlists, and tracks from people you follow: on SoundCloud",
+            "type": "url",
+            "url": "https://soundcloud.com/you/library"
+         }, {
+            "date_added": "13384365241300017",
+            "date_last_used": "13388854744545650",
+            "guid": "0f17dcf0-70da-4f3e-b0e4-c62b38f8495f",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[GNOME] Gnome is cool sometimes too... : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1ihmg20/gnome_gnome_is_cool_sometimes_too/"
+         }, {
+            "date_added": "13384436280601755",
+            "date_last_used": "13388854746297373",
+            "guid": "f0f5ac90-ab88-4e1f-9e9e-9e3765bb0b94",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "yab just dropped this 🔥 : r/YABUJIN",
+            "type": "url",
+            "url": "https://www.reddit.com/r/YABUJIN/comments/1iem57u/yab_just_dropped_this/"
+         }, {
+            "date_added": "13385825045932166",
+            "date_last_used": "13388854746845944",
+            "guid": "fe089bf3-f784-4176-a11f-5f1f2cf49217",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Hyprland] Eastern Europe landscapes to study history and philosophy (and stuff that I actually study for) : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1j4v32r/hyprland_eastern_europe_landscapes_to_study/"
+         }, {
+            "date_added": "13386348698938536",
+            "date_last_used": "13388854749396479",
+            "guid": "661c3a20-316d-4aa3-af47-b53b76ef0915",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[LXQT] Another Simple Retro Theme : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1ja6rsx/lxqt_another_simple_retro_theme/"
+         }, {
+            "date_added": "13386455119490545",
+            "date_last_used": "13388854755860248",
+            "guid": "ae7316d0-2d20-4f3b-9921-82844c75b33d",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Hyprland] Finally rewrote all 4000 lines of code (AGS V2) : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1jacwgb/hyprland_finally_rewrote_all_4000_lines_of_code/#lightbox"
+         }, {
+            "date_added": "13386455141110806",
+            "date_last_used": "13386503891467010",
+            "guid": "e960d5d8-70db-41c3-ad49-7ed8e4eae625",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[hyprland] clean arch and hyprland setup : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1i69zs6/hyprland_clean_arch_and_hyprland_setup/"
+         }, {
+            "date_added": "13387000631829237",
+            "date_last_used": "0",
+            "guid": "841e3eb9-e302-4272-a954-7b8112bfb14d",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Xiaomi Redmi Note 11 (Global) - Обсуждение камеры - 4PDA",
+            "type": "url",
+            "url": "https://4pda.to/forum/index.php?showtopic=1043136&st=920#entry119720555"
+         }, {
+            "date_added": "13388085283873526",
+            "date_last_used": "0",
+            "guid": "90d73d53-5daa-4488-b90d-6bac0bf88755",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - zDyanTB/HyprNova: My hyprland dotfiles",
+            "type": "url",
+            "url": "https://github.com/zDyanTB/HyprNova"
+         }, {
+            "date_added": "13388118273557314",
+            "date_last_used": "0",
+            "guid": "e0889316-44fd-4b7f-81f6-f01888442c1c",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - djpohly/dwl: dwm for Wayland - ARCHIVE: development has moved to Codeberg",
+            "type": "url",
+            "url": "https://github.com/djpohly/dwl"
+         }, {
+            "date_added": "13388500710723134",
+            "date_last_used": "0",
+            "guid": "fc27252a-5849-483a-a359-c82d3f737f9a",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[i3] dull and boring : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1jinqga/i3_dull_and_boring/#lightbox"
+         } ],
+         "date_added": "13388832235515488",
+         "date_last_used": "0",
+         "date_modified": "13388500710723134",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13351362598666898",
+            "date_last_used": "0",
+            "guid": "ef8090ac-27e0-41ad-987d-15abe3d26c49",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13351362627194078",
+            "date_last_used": "0",
+            "guid": "96da519c-6bf7-4fa9-943a-532f39f95ccd",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Новая вкладка",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13351856086641629",
+            "date_last_used": "0",
+            "guid": "a93273e8-4e86-41f8-ae89-fba41eb4a032",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Новая вкладка",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13385387738153532",
+            "date_last_used": "13388834851008589",
+            "guid": "1f2192df-cce2-4ce2-b631-ad3a3b9a20d8",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - vinceliuice/Graphite-gtk-theme: Graphite gtk theme",
+            "type": "url",
+            "url": "https://github.com/vinceliuice/Graphite-gtk-theme"
+         }, {
+            "date_added": "13385399265729458",
+            "date_last_used": "0",
+            "guid": "47fdb7a1-6f6f-489a-9133-7fc13dd504f4",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stream and listen to music online for free with SoundCloud",
+            "type": "url",
+            "url": "https://soundcloud.com/"
+         }, {
+            "date_added": "13385572088042937",
+            "date_last_used": "0",
+            "guid": "ecb33a0b-c871-4471-a8f7-126a096982ed",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Спровоцировать kernel panic - Конференция iXBT.com",
+            "type": "url",
+            "url": "https://forum.ixbt.com/topic.cgi?id=76:9252"
+         }, {
+            "date_added": "13388833915428314",
+            "date_last_used": "13388834867500384",
+            "guid": "a7e9253a-591e-4290-9240-b24832481dd7",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Walls-preview/wallpapers/IMG_7577.png at main · quantumvoid0/Walls-preview · GitHub",
+            "type": "url",
+            "url": "https://github.com/quantumvoid0/Walls-preview/blob/main/wallpapers/IMG_7577.png"
+         } ],
+         "date_added": "13388832235515491",
+         "date_last_used": "0",
+         "date_modified": "13388833915428314",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13251343531336312",
+            "date_last_used": "0",
+            "guid": "fc934f6e-dcb5-4e94-a308-b631ff0428e7",
+            "id": "22",
+            "name": "Новая вкладка",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13254209647098795",
+            "date_last_used": "0",
+            "guid": "a7b0115e-d561-4548-9cef-a6bbb3560c73",
+            "id": "23",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=470&clid=2323230&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13254209647098813",
+            "date_last_used": "0",
+            "guid": "8575c8cc-b5f6-45d2-b559-3009b2d59b99",
+            "id": "24",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=470&clid=2323230&from=dist_bookmark"
+         }, {
+            "date_added": "13357655746359411",
+            "date_last_used": "0",
+            "guid": "5ef80807-1084-4fd3-a87c-cd9a4e57d4f4",
+            "id": "25",
+            "name": "Яндекс Маркет",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=641&clid=2416152-2"
+         }, {
+            "date_added": "13359480230448862",
+            "date_last_used": "0",
+            "guid": "85e81116-d718-4e1d-92e3-956e2d475241",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Black MIDI] RUSH E - Online Sequencer",
+            "type": "url",
+            "url": "https://onlinesequencer.net/2179360"
+         }, {
+            "date_added": "13387755797259509",
+            "date_last_used": "0",
+            "guid": "cce50359-bcd9-40f5-b287-724ef85e9cd1",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download Letty Whiterock Anime Touhou HD Wallpaper",
+            "type": "url",
+            "url": "https://wall.alphacoders.com/big.php?i=724268"
+         } ],
+         "date_added": "13388832235515493",
+         "date_last_used": "0",
+         "date_modified": "13387755797259509",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCUSTcTWCMgYAEUSTcTWCMgYAKYQ0cjWCMgYAEgAqGDgwR295YkN1VGczTVEzNFFUc1pGZGc9PUgDEuwBCBoS5wEKHGxza29vZFdqd3VKUTRaVzhCRU01eG1MOWVEcz0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbWV0eXFDdzJHTFVjMFY2amJQOVpYRjBDOW8xUHI0b0lOdXFJWCtyYmJ5N3ErVlgza1pIK0FkYk1ENG4rQk1FSWxHbUw0d2c9PRgAIAAoADCFu6fJofmFAzi91PHy9DFAvdTx8vQxShwzQVVxa01MTmYyZk16ZjU0Ukk0cEZieldWbTQ9Wh8iHfdocE92YTdtS2E3UXN3dmdsODV5MFFIRXVJeHc9ZSxDe3sS7AEIGxLnAQocUEk2TUFLMzg4T1ZTRXdGcUIwQS81R2tvMzRZPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtWkU4K3RmeVZaMEhNVDVTS3ZnS0ZndjdNL3RpUjU3Z1plQUVpRjN6Yk1RS2ovMEFJU2FtVjh2dXBxZ2xUU1IxUDljM2pMQT09GAAgACgAMIroh6KYsIwDOJGm3Z3eMkCRpt2d3jJKHGdCZUQvWkUveWpnUmVDL0J5TS9Id0pTVHVNST1aHyId+1FKc2NIenRBa2sxTWhFZWVRZEpjNVFiR21yOD1lFSDGqBKtAggYEqgCChxSeXdLdTBNaXNuUUlSYjlabmJpWVNQdW1GK2M9EqYBWjpBRHF0QVp6Q2drUHhXLzYxY1E0MEI0VTZTMW9qank5YnREbm1Icy9iZnlGRmdnMXN0R2JPbnR0Z0lTWW5PN1dHYklVVTlmcXNSRG9obFkrZkErbWk5UVJINWxwc25odDFlWWJCSUtvVHlsdzl3TVQvYjd3ZzdUa1NZK00xR3M0OE1SUURHVmVXcVhXbnRQU1pxMHBoejRCNTlOcS9CTHVCVkE9PRgAIAAoADCGzdPC0qn0Ajj538rZ7S5A+d/K2e0uShwxZ0dYdkl3UXhlK0x0L29xTTVVZzIzbDBsL2M9Wh8iHdw4cDJ5VDRIRWNZZ3JkM1Zxcy83T0c0S0N5ZDQ9ZQAAAAAS6wEIHhLmAQocQ1V0T2o3Tkc4M2lYUnEySFR3K1FYOWdJOFBrPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtQmhCV1Y0eUdDRXptU0l4bHJmTFNReHUwWXN2amNnOVRXd3ErczdJQzM5MTUvZC8xWDRzbTFxckMxSnJ6OEllWkF5eTQwUT09GAAgACgAMN22kNivm4QDOPeZt7/YMUD3mbe/2DFKHHRDMXEyazJvRFR3VGdyZjROUi92ZWFsak52RT1aHiIcWW9IakxIOGtOUndwL2dVb3MvWFBzR3VQWDFjPWUAAAAAEusBCB0S5gEKHDcxVGh4NHdlVGtmN3JxTERESU5USU9iU2NXOD0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbVhaeDRrWlBNOHNMMUZnenI4WnMvdkw4WDZ5cXFOcWltRld6T2owVWVtbEo4QUdEWGtZdTNnamhjODNLNmp4eDY4R3RCZkE9PRgAIAAoADCqydOZh42EAzj6vI7U1jFA+ryO1NYxShxiNEkxOFAyYjBlYS9UWmRoRjR6cmRxUm1wS1E9Wh4iHFMxQlFWbVZsKzlmY2RaQUtQaE16VlVXM0FzUT1lAAAAABKtAggFEqgCChxjWklWZTdaV2wrMHdXakJTTXNJdHRtY0M1VDg9EqYBWjpBRHF0QVp6Q2drUHhXLzYxY1E0MEI0VTZTMW9qank5YnREbm1Icy9iZnlGRmdnMXN0T1FkMGkxY1Fpb01rNTlKSmpTK1lnQ1VWVStaczdCMXZxVFVmRVJZbkllNFhmZzVGa29mV3R0VU91RklwZ2o3all0TW0wc2V2blNpb3dycklqL3F3d2sxVG1HRHVuZmFBbjVXcTJHdFFLU2owY0tZMmc9PRgAIAAoADClqu/5lKKMAziAtL3S7y5AgLS90u8uShxLUVhoaldNM0laZ3JTMnAwNnhrQi9oR2Q4bWc9Wh8iHdlsOVo5bTFGMXFFSmV5c2ZlWDBHUGJLSE0zaUE9ZTPH1k4S7AEIBxLnAQocdHFVVmtHWHdHa1JTQThJZ2lhWTRSMloxVjNnPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtMnJ0WE1FTmRtVENGWVNTaGtEeEF1NHBmV0VJVFU5dVQ3RWR1WDVYSnNLcjRnZ2N4RVhzditVUUJqZHBReElCaEtjUHlYZz09GAAgACgAMNXgkdLlp4wDOI3y+IzuMUCN8viM7jFKHGsvNG5zQTZwUzlYVklQMjQ4aFY3M0pkcThWZz1aHyId/UxaeUlDTStSOVFhMU1FaWRZdVdCVkJvbUZSST1lEtXqghLtAQgPEugBChw0bUlISU5wZlRIS3dEODF3OXJOenhtZUMwSVU9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1WOGZkQ1R2ZWtlb3hpdFRWQTl3Z09GMHA3dU9XTERBRHJ4bG44bDhmNDB3Z2tCY1dZYnNqMnRpOFNsYjQ3RERzMy91cFNBPT0YACAAKAAw+KmQnfzDjAM4uuri/tgyQLrq4v7YMkoca3ZjbHpnZ094QUR4b0dvcStobXFtaENEWHY0PVogIh7/91lTbnBLekVVMDlucXFJaG51TG9mK05NT2k2cz1lwCv08BLtAQgQEugBChx4RWZwUzBMVk9LVGJneUg5Mm5GZFhpUWVQam89EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1uMkV2MitDVkxhQmNxLzJuUXQyd0ZmaGRaT0FQNW1CbzRXRXovWno0QkY1c2pPVmlDcUR3TGJ1UEkwcFlqMElldmdhQ013PT0YACAAKAAwrfGLlvy2jAM4ip3CsdkyQIqdwrHZMkocTUVvZ2lDaGRwOVFvUnRwNHpRdEJrU0ZBd1dNPVogIh7/+ytwU3E4NDlIc0FnQmlRSXlKMTM0Tjk4RmEzaz1lwCv08BKtAggXEqgCChxWREVPbmV6L28rQ0lrbUgyVGRSS0VBaHB3NDA9EqYBWjpBRHF0QVp6Q2drUHhXLzYxY1E0MEI0VTZTMW9qank5YnREbm1Icy9iZnlGRmdnMXN0SFJHeU5zbTdwUzNyVXJmNzN5d1ZGUWkvdFR0Tmt5T3FLRTZCT3ZON0l0ZmhXRW4zMitvY1JJTTJTRGI4VXlZTXZkVzhQTGMxWlpxcUViOS9rWExDYTA0YnFubFVDN3R1SDFXR1FOc2tBNzF3YXBBelE9PRgAIAAoADCGzdPC0qn0Ajj538rZ7S5A+d/K2e0uShxsbFZOY3RtbEVnYThwQ05ZWVpqQXdJbXZpTkU9Wh8iHbhlY0VYbzBBMjNCenMrSXpsMGR2NHk1MHJLbDQ9ZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4Y0xqRWNYNExlOVhtclpDYk1vRERFNzR3UVd3RnRPSWNvZ1lQVE9uL1VHY3ZMTDFsTDRlUGtpRnd3c2N6K2VvdTRPeThzNmtPODNudGVkQitzZmQ5R25WVnhPdz09GAAgACgAMMX+lr/Cz4wDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS6wEIHBLmAQocRzNOWjQ1VmRQNGVScHVLdHg3aC9qKzAyVlFFPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtVHJqRnpjTEpHUE1TNG8wUVphUEVRdVB3WGVINnFlSjNwOU8zTHhGWDQzZ2RHVlBYbm8yVGhvcTVkMnpjbGxLaFVNam81QT09GAAgACgAMJOO/IrSsIkDOIvejNTWMUCL3ozU1jFKHG9jTmpqQS9TQlpwVnkxSWh1M0ZzWTJsQlV3ND1aHiIcUWFlZG1aeDRkYTJYQXV1TnJ0SjhSN3U5eW13PWUQMP/kEu0BCA0S6AEKHHhSc1UxNHlhRm9nVzUvcC9OWkNyZ25EajhVMD0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbVI5QUw1YklVZ0k5WXo1STk4bCthN1BpQ1hDMUZNbVpNNlU5OGQ3N0Ftb2wyYm0xem90ZStJR2VzS0tKc2tFNWdEdlhYckE9PRgAIAAoADDV4JHS5aeMAziiiu7u0TJAooru7tEyShxHOVI1WjdnamFiNmFLR1FoQUtXYmJocW56Qms9WiAiHv+8eVdVRTJ4dkRFb1dPMnNweHpsd3JON2JNb0Y4PWXAK/TwEu0BCBMS6AEKHGZJbnZiWW8rMjQyWEFyMUI4RDlZRmVkS0xsaz0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbWRHRHNXZURKYTFHMEZVREVCUzQ0dkZmTTNMVkhRU2VvdXo5Y1J5OTZIM0FXSXNhbGs0SWhDd0FWa1J2SkswNDhoNXpKd2c9PRgAIAAoADDQuaLq47mMAzipyeu63zJAqcnrut8yShw0Zlo1UjVvQzBmRlhjMGhxSVBNRFpEcEhpVzg9WiAiHv//VkFTNldWdWNmbjhTS2RPM0NVLzErd3ROaUJjPWXI8z+7EuwBCCAS5wEKHEdrczZVRFhVcEFmQkhKc2pvQjh5WlVzVGJ2WT0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbVVaOCtMNnozZjdMcHpCNzAycnJodUJibnVCRHk2a1JnQnJzVSs3NzJWT0pVNC81NFk4OHh0U3Zxd20rWHN4Mmw3SXB3RkE9PRgAIAAoADCf1eqg9euLAzjBg4a61TJAwYOGutUyShxSSnQ5eXBoUU1aOTVuTVR6YzZpUDNuaVp2ams9Wh8iHdZ0N1Z5VzdjMDZVekw0SWMwL2tuRW9BdUVvUDA9Ze/fozES7AEIGRLnAQocZkpmeFhXN00xekVSd1Z0L21DYW92SUIyaWdJPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtWXRlSEwxeFpsc1FqVlprdG1tcGIzNE5NbXhGMmRXdnFQSTVLc0cyZzVWWjEvcE1BOEZtRTUyd1c1ZE1aODZBQkZEYXZ3QT09GAAgACgAMI6W5oOWqIwDOIjy+IzuMUCI8viM7jFKHHBNRmR3ems3clkyMU92N01HRkFETWJnNTFsYz1aHyId7jM5Wk9ITUZiZTVmcGI5N2JUaVhscFJad1VjTT1lUXRzUhLtAQgREugBChxCbzBkaW1wUDA4WUE1ekZseTZ2S1o1c2M0dkU9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1TaUwzSGRsNklVcTU4WkwxWnRBaTJkYzk3bGt4SGFNMHNaSURSM3NNYSthTXJZSnV2SWV1amVscmYvS1ZqS3g2dVU2dDJBPT0YACABKAEwjo7dhcjPjAM498XDsdkyQLXn35/iMkocek1oRVZQQ0JmMWxscXNmRjRMdWhEZEt5eUhnPVogIh7//UJ5dWtQbzlCcmJIUmZKeVJlN1lqWXFTV3N6WT1lwCv08BKsAggWEqcCChwzWmwyRnJzTUFqUEltczhEOGk1RUgxakhlRG89EqYBWjpBRHF0QVp6Q2drUHhXLzYxY1E0MEI0VTZTMW9qQkVPaHozOW5tdU5zYmtlTXc3SWdoaHVncEM0K3BSZnk1WlZYWFZ1TTRSejZyTTNyVng3cTFMMEEvMS9LeXd2WWEyM1NDYUdSQkNOQkxTZENGWFJLaUZrL1l6UzNhNEJucEFBNGhiS3hYZi9TQjBYanFqbnBabDRLYlBMSTQ2eFlhRFl0Wnc9PRgAIAAoADCGzdPC0qn0AjjNqqWH4i5Azaqlh+IuShxhUEFkcmNVdTNjcGlDOWtBQS9NTVBpY1lQazA9Wh4iHHB5bDE4dTB5MHkvMTVrUzlWR25sNUZxUmMrMD1lAAAAABLuAQgUEukBChwyeG43dmNoMCtQQUUwOXRPS0hWRUY0V2pvUVE9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1nVFpKc2JFSUc4Y3k3UjZ0SXRVMHNQbVZKeDlhT05hRGV1L0QvRHJBblgySzNsQmY2SzhWZTF6TDJqc1R6amx6bGFRREx3PT0YACAAKAAwt9nCvLy7jAM4oozJyt8yQKKMycrfMkocWWhMS2pPMW42M3p4VXN4Wk4zQUZVMWxnVXZnPVohIh///6s3VGRHUXBsZEZ5L0ZONVZ2R0l4cUdUSGE2cEE9ZcjzP7sS7AEICRLnAQocZHd0VCtncXlxa1ovNzJ1amp4azdPVVdNQmVVPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtMGc4Z3R0b0J4dm11QWhuTkIyTENlL2hJT1F0WmNMcTlsQWFQQVMwSnNwcFFiSGxNL2V6cEpSWGNYQmhsdXhjL1BIUlFhQT09GAAgACgAMNXgkdLlp4wDOK6bjf28MkCum439vDJKHEYxVWtVSXdrZllsSHVBSXJGSzlkMVJwQ3pBUT1aHyId/1krWWk2aXNRVDBENEtyTVBxb2FOb1ZLcWxHdz1ljr+u3RLsAQghEucBChxrTDlyMkNvWUN2aDJFQVJpMEk2Q05scXhkdDg9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1FMzZpRTNDQ2xwZzgwK1lQWUJHc1BaakIzZ1l3aTZwVEd1ckthbjdmZnJHZ050YkdXTTlhVHZwL2JEUld5UWl6b3NlL1FRPT0YACAAKAAw9Ijs/6+AjAM4/6G6jNYyQP+huozWMkocVTEya25EbExLQTNxWnpZV3Q2V3Z0TUk4VTNvPVofIh3raXRNUlY0a1krTTFpM1UrdFduZkFVeklYMzRvPWWp9QCEEuwBCAwS5wEKHE1XSU1DbG9MU0NJTldQekRNL3RydjFSL25YST0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbVllcFI0QVltNWRqeElab0hTbUlFOVk1Z1hVajNyb1Z3VXBBVmtiRjg4aGkvSEJBVG9ncHErOFhkZ2JNYk5YL1htV3Rrc3c9PRgAIAIoAjDM0e720s+MAzjbl/7M0TJAqoySoeIyShwvRUpnN29qTEVUMGZuUlJVVUtJajVqTlMzclU9Wh8iHf95bFdrWTNsdnJyN1BGR0pzNm4rSCs1RUVnMDg9ZcAr9PAS7AEIChLnAQocdXdYQ1JxdHhBTVBGanUySE5tTkVOa0VvdVo0PRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtcWMwRHhSMlVaakI2TzJPL2dXNEVsWlZGUXlCKytpMUlhOEdzdW91NWVnUTV3cGN2Q2VmMTF5ZlpiaVd1QzNUWG8xNkJEdz09GAAgACgAMIXVoea9n4wDON/brqTFMkDf266kxTJKHFYxL2hEK0dLeUJRcm8wYnprTDFSR3FCajRJQT1aHyId/211WjdrajRMVUVVMmFFNXFvc0ZQMzhLOWlaYz1luwMVUxLsAQgGEucBChxmZFk0bXJSajVEKzRRVm5LQmc0SDBPZnBJKzQ9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1jQVY1ODF1TUJITGVXN2JyVHQwYnBTQ2ZSN1VhaEEzM3ljcWxvc2Zud1BaeC9ZTnlybGRzWWRwWWQ4UjRZZ0hHaElyRkxRPT0YACAAKAAw16qXoPq2jAM4u5zn1NYxQLuc59TWMUocYUNmZ01rT05PWEd5UjZCT2Z3bGx1WE1TNW44PVofIh37VHpXcWp5V0tLdVdzaXlXR3J6dmwwNjF1dmJnPWX9nIxKEuwBCAgS5wEKHHlqa2N4R04zdmRlQnNSNy9zQ1VxWmR4d29FMD0SZlo6QURxdEFaeXIrdWJFL3FLUXk1SHZZbm9IOVZGbVh0ZE5lZ3Urc0EwTHlnOFJyTE9ZRkd4Nlk1VTgwM21Ca01aMFNvTjRkSW1lZ2JwZndLSldJS1diRWxHbXBaUTFRWkphUVE9PRgAIAAoADDV4JHS5aeMAziO8viM7jFAjvL4jO4xShxYMWdTMUJOMzN2MVBGdFZxM3dsUkRmMjNkd289Wh8iHf5MYyt6WENjakd5TldkWTRaRDBlTFBvZEdDdGM9ZVF0c1IS7QEICxLoAQocdytQZmpHT3EzYThnRTg0SCtqNDFiUkQ1M1QwPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtZm5sT2JtSU51dnFQSWlvaEw5a2hWOXpkblBtTXhMS1FPRWlZREJub3owSVFzUzZSTThLUjBodE1qbnE2TWtCSk9UZXV1Zz09GAAgACgAMMGtr4bVyowDOLzAiLrVMkC8wIi61TJKHG5mcDFySERSQjROZVB5WkZORlhQTEFUVXFaST1aICIe/3NTUEMvY0xENWlpOEJ5VVpibmZjTnkxVjFTYUk9Ze/fozES7AEIHxLnAQocVEpsdW16NHdNelBBQzFjcjdJUzlJTVdoVnJBPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtaEpHMDJSUGtmMkRRR1lDT0FzNkNvRHNkeDB4c0tDck9WVFJCNkJHNU14SHpwamZnWExnMlpSSXhtUTdiNHJRTHc5Q3QzUT09GAAgACgAMMeGgYvD64sDOLm4xrTVMkC5uMa01TJKHFArUFhXdGg4RGN4TnNyU1NFOWxqc01SWHNBOD1aHyIdrDRPZi9EbktUOGNmSThEWEZtMkp1Q2RqMk05ND1lFVD5iRKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlxbnVLMjlaVWlscEtacEkvcy8wVUN6aGJwOUdJeXVBMHp0OE1NQzh1Qi9ETXpoTjJpclgrNnhqQlcyYkpMaG1QcFNyR3UYACAAKAAwxf6Wv8LPjAM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhxTVVtTFY2ejgyejZFTVc2RTN3aXdDbDhjNEtQSEhRK2cwalBtQ1RTRXhxTjNZcVhYUmZFR09qdW8rM2JENVRDSlZxTUZuNnB3SzN0VzZTMnBvMmJVNGx2TzdBPT0YACAAKAAwxf6Wv8LPjAM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLuAQgVEukBChxkR0RGQlliTHRXaGdsQkl4ZHhLcGpHdDk3QmM9EmZaOkFEcXRBWnlyK3ViRS9xS1F5NUh2WW5vSDlWRm1hNjJ4dzJMd2orZWgvNkp3SFRLWGxyeE1mR3Q2d2hEK29kYWxheW9KamZYYTBPYTllYnQ0MkpnM3ZwS3I2Rzk2am5WZmF3PT0YACAAKAAwwdDIpO/FjAM4yZr3gOEyQMma94DhMkocVjcwMlFyQTQ1bUxPZWFVZzA2WjQ0bTZ2aS9zPVohIh///9VFajNreHErR09qcllGbGxIenVkMkxqYWdoODQ9ZcAr9PAS7QEIEhLoAQocakY2cHRSaDBOQjQwK3VkNXlTQ0pIem84RVJFPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtM3RvR2xSOFF2OWw3Mit5cWEwSjV2Zkxta2NuRm9rNFJPUHBBaXFkNW1oV3RoNzBhZmoxZDl4a3YvMjl1alBFRVI4ZXNiZz09GAAgACgAMJ6r1N7VnYwDOJbU0bXbMkCW1NG12zJKHHhSdmc1aGk4MmM5bUY2NGlnN1RMd3FDNTFBdz1aICIe//5RazBGbjNHeUp2dDdFQ0pjbDRQbWlTbEQ1eTQ9ZZYqKuIS7QEIDhLoAQocQ1IrTzBKYnJENExFY2ZiMW1YRG0yZHpsKzFZPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtVEsxQSs3KzVIenpGWU1ZTzh3TkdxNCs4QWNXc0RrQXNadXZ2dzA2V1c2YnVMR2tEOE5YSVJnVGE4Rk4wczBkMkczWUVBUT09GAAgACgAMJiT6dzVyowDOKzLiYXXMkCsy4mF1zJKHE1FMW82R3hwbDRHMVlXUVhFa0FWbU5JZ0hUWT1aICIe/+9tajVzTUsvd3JXZDdMb0xabEZFSG9vcjV3OHM9ZcAr9PAS7AEIIxLnAQocWTA2UDYzYWlheDZkL2xVZWROa1NleTlKamVzPRJmWjpBRHF0QVp5cit1YkUvcUtReTVIdllub0g5VkZtVEZ5MkdLSXJwajhxN1pFektSYk8vZUlJbFBkbU84UnhqbCtCVG9zZk0yVEp0UFFxaklTS0ZwWFZRZWswc0dqSWFWTVpwQT09GAAgAigCMLXAwfbIz4wDOKS06J/iMkDtnu6f4jJKHGRFckdUbGlGZzl3K0R5RHc2MG14TmV0YzNMZz1aHyId9UtLbHZna0QyRFdQN1IrSDN5QTNqZ0IwUFh0RT1lyPM/uzABOAA=",
+   "version": 1
+}

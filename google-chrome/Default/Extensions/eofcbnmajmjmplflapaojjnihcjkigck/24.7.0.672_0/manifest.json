@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "icons/iconDisabled16.png",
+      "default_title": "Avast SafePrice"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "css/fonts.css" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlUFhEKozczrgOk7CMRTmu2DIs8HXJWlscKV9K/OlihFLfCaVqByGULFF+8rCHyEX8GNC99zM64JoTT6GKP4eTqv38U2GLmo4bdYLnKjwuXxPRUiSlx7sAvsr0mPiscIX+3drYch4JHfLTBRNnQ12abyjBXcAtUgOKi3rmj3x186BT1wSZahDvh0cK7b7TzmaOdkcG0t9UGo7HTPfN/d7NMm93PVrqAkZZmdEustOmTooRvEkcdIk895Us6HKd7MOkDRMEJyT8pW0OipTxEPxbHs6YpQ4hIreReMfBu90UgnvM8Pv5+jScqyAXEKbjCPzBGU7kcVRPfiaWGbdGNjuYQIDAQAB",
+   "manifest_version": 3,
+   "name": "Avast SafePrice",
+   "permissions": [ "storage", "alarms", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "24.7.0.672",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "siteScript.js", "*.js.map", "*.css", "*.css.map", "fonts/*", "*.svg" ]
+   } ]
+}

@@ -1,0 +1,67 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "48": "icons/icon48.png"
+      },
+      "default_popup": "action/default_popup.html"
+   },
+   "background": {
+      "service_worker": "background/service_worker.js"
+   },
+   "content_scripts": [ {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-0.js" ],
+      "matches": [ "*://*.ubstv.click/*", "*://*.naruzhu.work/*", "*://*.naruzhu.am/*", "*://*.uboost.am/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-1.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.youtu.be/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-2.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.google.com/*", "*://*.youtu.be/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-3.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.youtu.be/*", "*://*.googlevideo.com/*", "*://*.play.google.com/*", "*://*.ytimg.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-4.js" ],
+      "matches": [ "*://*.storage.googleapis.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-0.css", "content_scripts/content-1.css", "content_scripts/content-2.css" ],
+      "js": [ "content_scripts/content-5.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Ускоряет YouTube и обходит блокирову Ютуб в России. Скажи нет замедлению Ютуб.",
+   "host_permissions": [ "https://extension.nrz.homes/*", "https://uubb.website/*", "https://*.youtube.com/*", "https://sentry-sel-2.vpnn.loan/*", "*://*.youtu.be/*", "*://*.googlevideo.com/*", "*://*.play.google.com/*", "*://*.ytimg.com/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6O5bR1Z442gruX/t4THQw1UmLasEx2w1kfwfTYByZPt0dArRnciUW0UuRVdv4Wk9rQcU2dU2fJ73i10lf7hXhfAweXUDD1vkzkGOlc23vIclNEdFIhlrdxs6NfSidtb4qqj7IZuySAvV78Nbf7nNGZURiWMJJYSp3i7KQsxjBqBVRzZSPh+MnS2CeeYXoIzTxoWkXyRd2gsfTnCftZAPdfppx0gPPNrQyTJnlnwHW/UniVcVLghCRf44V6U2L7RTvyGIKV+krhkRD/kRCNgSdsto7AEBNJYH5U9Nr5JPMj3y1IWVvX2QZ8/3bj4PiMYKb1MDM7kNULp2z+KiTld7SwIDAQAB",
+   "manifest_version": 3,
+   "name": "ЮБуст - VPN для YouTube. Обход блокировки Ютуб. ВПН для Ютуб без рекламы",
+   "permissions": [ "proxy", "storage", "webRequest", "activeTab", "tabs", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.0.6",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.ubstv.click/*", "*://*.naruzhu.work/*", "*://*.naruzhu.am/*", "*://*.uboost.am/*" ],
+      "resources": [ "assets/Naruzhu.png", "assets/promo-1.png" ]
+   }, {
+      "matches": [ "*://*.youtube.com/*", "*://*.google.com/*", "*://*.youtu.be/*" ],
+      "resources": [ "assets/Naruzhu.png", "assets/promo-1.png", "assets/icon128.png", "assets/neo.png", "assets/qr.png" ]
+   }, {
+      "matches": [ "*://*.storage.googleapis.com/*" ],
+      "resources": [ "assets/Naruzhu.png", "assets/promo-1.png" ]
+   } ]
+}

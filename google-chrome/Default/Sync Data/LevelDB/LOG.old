@@ -1,0 +1,21 @@
+2025/04/11-22:17:44.820 95c Reusing MANIFEST /home/avemaria/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/04/11-22:17:44.820 95c Recovering log #78
+2025/04/11-22:17:46.107 95c Reusing old log /home/avemaria/.config/google-chrome/Default/Sync Data/LevelDB/000078.log 
+2025/04/11-22:21:58.562 95d Level-0 table #82: started
+2025/04/11-22:21:58.612 95d Level-0 table #82: 94808 bytes OK
+2025/04/11-22:21:58.651 95d Delete type=0 #78
+2025/04/11-22:35:36.876 95c Level-0 table #84: started
+2025/04/11-22:35:36.921 95c Level-0 table #84: 92063 bytes OK
+2025/04/11-22:35:36.961 95c Delete type=0 #81
+2025/04/11-22:56:50.491 95c Level-0 table #86: started
+2025/04/11-22:56:50.614 95c Level-0 table #86: 88696 bytes OK
+2025/04/11-22:56:50.729 95c Delete type=0 #83
+2025/04/11-22:56:50.729 95c Compacting 4@0 + 1@1 files
+2025/04/11-22:56:50.808 95c Generated table #87@0: 102 keys, 19788 bytes
+2025/04/11-22:56:50.808 95c Compacted 4@0 + 1@1 files => 19788 bytes
+2025/04/11-22:56:50.881 95c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-22:56:50.882 95c Delete type=2 #77
+2025/04/11-22:56:50.882 95c Delete type=2 #86
+2025/04/11-22:56:50.882 95c Delete type=2 #84
+2025/04/11-22:56:50.882 95c Delete type=2 #79
+2025/04/11-22:56:50.882 95c Delete type=2 #82

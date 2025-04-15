@@ -1,0 +1,6 @@
+2025/04/11-22:51:55.459 95b Creating DB /home/avemaria/.config/google-chrome/Default/IndexedDB/https_ru.hexlet.io_0.indexeddb.leveldb since it was missing.
+2025/04/11-22:51:55.586 95b Reusing MANIFEST /home/avemaria/.config/google-chrome/Default/IndexedDB/https_ru.hexlet.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-22:53:45.554 95b Level-0 table #5: started
+2025/04/11-22:53:45.605 95b Level-0 table #5: 1849 bytes OK
+2025/04/11-22:53:45.643 95b Delete type=0 #3
+2025/04/11-22:53:45.643 95b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

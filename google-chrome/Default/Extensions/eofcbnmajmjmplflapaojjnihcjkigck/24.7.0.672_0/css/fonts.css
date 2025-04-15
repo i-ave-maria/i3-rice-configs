@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Mier Ava';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Mier-Regular.woff2') format('woff2'),
+        local('Mier Regular'),
+        local('Mier-Regular');
+}
+
+@font-face {
+    font-family: 'Mier Ava';
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Mier-Bold.woff2') format('woff2'),
+        local('Mier Bold'),
+        local('Mier-Bold');
+}
